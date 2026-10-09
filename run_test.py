@@ -10,3 +10,4 @@ result = subprocess.run(
 print(result.returncode)
 print(result.stdout)
 
+cd
